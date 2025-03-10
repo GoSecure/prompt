@@ -41,5 +41,5 @@ The following diagram summarize the concept:
 3. Use the prompt command: `prompt` (it will pop the option box)
 
 ### Example output:
-TODO import image 
+![prompt](../media/mythic.png) 
 
