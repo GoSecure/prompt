@@ -26,6 +26,11 @@ Each folder has its own `README.md` for instructions.
 └── README.md
 ```
 
+### Screenshot
+Here's an example of how the `prompt` command is used in the Mythic Medusa's agent:
+
+![mythic](./images/mythic.png)
+
 ### Article
 Article about this project: [TODO URL] 
 
