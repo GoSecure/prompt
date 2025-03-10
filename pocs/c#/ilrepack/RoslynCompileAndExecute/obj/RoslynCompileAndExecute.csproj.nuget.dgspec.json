@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/share/ilrepack/RoslynCompileAndExecute/RoslynCompileAndExecute.csproj": {}
+  },
+  "projects": {
+    "/share/ilrepack/RoslynCompileAndExecute/RoslynCompileAndExecute.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/share/ilrepack/RoslynCompileAndExecute/RoslynCompileAndExecute.csproj",
+        "projectName": "RoslynCompileAndExecute",
+        "projectPath": "/share/ilrepack/RoslynCompileAndExecute/RoslynCompileAndExecute.csproj",
+        "packagesPath": "/home/test/.nuget/packages/",
+        "outputPath": "/share/ilrepack/RoslynCompileAndExecute/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/test/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
