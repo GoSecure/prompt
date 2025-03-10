@@ -27,7 +27,7 @@ Each folder has its own `README.md` for instructions.
 ```
 
 ### Demo
-Here's a ![demo](./media/demo.mp4) of the `prompt` command with the Mythic Medusa's agent.
+Here's a ![demo](https://github.com/GoSecure/prompt/raw/refs/heads/main/media/demo.mp4) of the `prompt` command with the Mythic Medusa's agent.
 
 ### Article
 Article about this project: [TODO URL] 
