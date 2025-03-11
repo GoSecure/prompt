@@ -1,11 +1,15 @@
 ### Description
 Python code PoC that reflectively executes AI-generated code (requested via the OpenAI API in this example).
 
+### Requirements
+- `python3`
+- An OpenAI API key
+
 ### Usage
 1. Set your OpenAI API key in the `API_KEY` variable in the `prompt.py` file
-3. Usage: `prompt.py [prompt]`
+2. Usage: `prompt.py [prompt]`
 
-### Example output:
+### Example output
 ```
 >> prompt.py 'list the content of the /etc/hosts file'
 [*] Asking AI to generate code...
@@ -19,8 +23,4 @@ Python code PoC that reflectively executes AI-generated code (requested via the 
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ```
-
-### Requirements
-- `python3`
-- An OpenAI API key
 
