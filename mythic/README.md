@@ -40,6 +40,6 @@ The following diagram summarize the concept:
 2. Load the prompt command inside your agent: `load prompt`
 3. Use the prompt command: `prompt` (it will pop the option box)
 
-### Example output:
+### Example output
 ![prompt](../media/mythic.png) 
 
