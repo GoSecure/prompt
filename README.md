@@ -23,7 +23,7 @@ Each folder has its own `README.md` for instructions.
 │   └── python
 │       ├── prompt.py
 │       └── README.md
-├── images
+├── media
 │   ├── ...
 └── README.md
 ```
