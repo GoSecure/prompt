@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../media/chimera.png" width="40%" />
+</p>
+
 ### Description
 `prompt` command for the Mythic's Medusa agent.
 
