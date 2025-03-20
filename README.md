@@ -2,7 +2,7 @@
 Prompt
 ------
 ### Description
-Project for AI-based implant feature. Contains proof of concept, and a command for the Mythic Medusa agent. 
+Project for AI-based implant feature.
 
 The repository contains the following folders:
 - **pocs**: Python and C# programs that request and reflectively execute AI-generated code.
